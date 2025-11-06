@@ -31,7 +31,7 @@ All rights reserved.
 This repository is shared for demonstration and educational purposes only.
 No part of this work may be reproduced, distributed, or used commercially without written permission.
 
-*(Patent-protected under application/invention title: “Drone-Based AI-Integrated Pest Management System”)*
+*(Patent-protected under application/invention title: “Ultra-Aroma Mobile Pest Repellent”)*
 
 ---
 
